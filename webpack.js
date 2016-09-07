@@ -1,3 +1,4 @@
+
 var plugins = [
   "babel-plugin-add-module-exports",
   "babel-plugin-check-es2015-constants",
@@ -17,7 +18,7 @@ var plugins = [
   "babel-plugin-transform-es2015-for-of",
   "babel-plugin-transform-es2015-function-name",
   "babel-plugin-transform-es2015-literals",
-  "babel-plugin-transform-es2015-modules-commonjs",
+  //"babel-plugin-transform-es2015-modules-commonjs",
   "babel-plugin-transform-es2015-object-super",
   "babel-plugin-transform-es2015-parameters",
   "babel-plugin-transform-es2015-shorthand-properties",
