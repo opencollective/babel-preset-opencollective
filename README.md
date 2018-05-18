@@ -1,5 +1,7 @@
 # OpenCollective Babel Preset
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/opencollective/babel-preset-opencollective.svg)](https://greenkeeper.io/)
+
 Combines the stuff found in presets:
   - es2015
   - react
